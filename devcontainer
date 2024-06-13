@@ -1,0 +1,12 @@
+.devcontainer/devcontainer.json
+{
+    // Name this configuration
+    "name": "Space 1!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
